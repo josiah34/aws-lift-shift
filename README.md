@@ -22,7 +22,7 @@ The purpose of this project is practice performing a lift and shift of an on pre
    ```bash
    cd vprofile-project
    ```
-4.  Switch branches to awsliftandshift:
+4.  Switch branch to awsliftandshift:
    ```bash
        git checkout awsliftandshift
    ```
