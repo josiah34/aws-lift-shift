@@ -48,6 +48,8 @@ The purpose of this project is practice performing a lift and shift of an on pre
 17. The load balancer gives an endpoint that I added to my route53 hosted zone as a CNAME record. 
 ![CNAME-LOADBALANCER](./images/cname-lb.png)
 18. With this done I can now access the application with https.
+![vprofile](https://github.com/user-attachments/assets/40e9611a-0498-4b91-9a9e-196e4d34306f)
+
 ## 🌐 Architecture
 ![Lift&Shift](./images/aws-lift-shift.png)
 ## 🚩 Future Improvements
